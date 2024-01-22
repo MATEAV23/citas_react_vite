@@ -10,7 +10,7 @@ function Header() {
              text-center  
              md:w-2/2
              mx-auto">
-                Seguimiento Pacientes {''}
+                Seguimiento Pacientes {''} Con Github {''}
                 <span className="text-indigo-600">Veterinaria</span>
             </h1>
         </>
